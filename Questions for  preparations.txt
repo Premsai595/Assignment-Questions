@@ -1,0 +1,164 @@
+1. Which of the following is not a data type?
+a) Symbolic Data
+b) Alphanumeric Data
+c) Numeric Data
+d) Alphabetic Data
+Answer: a
+
+2. Which of the following is not a valid representation in bits?
+a) 8-bit
+b) 24-bit
+c) 32-bit
+d) 64-bit
+Answer: b
+
+3. Which of these is not a core data type?
+(A) Lists
+(B) Dictionary
+(C) Tuples
+(D) Class
+Answer: d
+
+Which of the following function convert a string to a float in python?
+(A) int(x [,base])
+(B) long(x [,base] )
+(C) float(x)
+(D) str(x)
+Answer: c
+
+5. What is the name of the | operator?
+a) Logical OR
+b) Bitwise OR
+c) Logical AND
+d) Bitwise AND
+Answer: b
+
+4. How are the  following two expressions different?
+a) ans =  9
+b) ans == 9
+Answer: One is using assignment operator, other is using comparison operator. 
+
+5. Which of the following operators has the lowest precedence?
+a) +
+b) %
+c) and
+d) not
+e) **
+Answer: c
+
+6. Loop is a ________ statement.
+a) Concurrent
+b) Sequential
+c) Assignment
+d) Functional
+Answer: b
+
+7. What is the use of FOR loop?
+a) To repeat the statement finite number of times
+b) To repeat the statement until any condition holds true
+c) To repeat the statements for infinite time
+d) To repeat statements inside until any condition is false
+Answer: a
+
+8. What is the use of WHILE loop?
+a) To repeat the statement finite number of times
+b) To repeat the statement until any condition holds true
+c) To repeat the statements for infinite time
+d) To repeat statements inside until any condition is false
+Answer: b
+
+9. What does the next statement in loops do?
+a) Skips the current iteration
+b) Starts the next loop by ending the current
+c) Exits the loop
+d) Skips the next line of the loop
+Answer: a
+
+10. FOR loop uses a loop index, the type of loop index is _________
+a) STD_LOGIC_VECTOR
+b) BIT_VECTOR
+c) INTEGER
+d) REAL
+Answer: c
+
+11. Where do we declare the loop index of a FOR LOOP?
+a) Entity
+b) Architecture
+c) Library
+d) It doesn’t have to be declared
+
+Answer: d
+
+12. A for loop is initiated as given below, in total how many iterations will be there for the FOR loop?
+{FOR i IN 0 TO 5 LOOP}
+a) 3
+b) 4
+c) 5
+d) 6
+Answer: d
+
+13. A WHILE loop is more flexible than FOR loop.
+a) True
+b) False
+Answer: a
+
+14. Does python have switch case statement?
+a. True
+b. False
+c. Python has switch statement but we can not use it.
+d. None of the above
+Answer: b
+
+11. A loop becomes infinite loop if a condition never becomes ________.
+a. TRUE
+b. FALSE
+c. Null
+d. Both A and C
+Answer:b
+
+14. The ________ statement is a null operation.
+a. break
+b. exit
+c. return
+d. pass
+Answer:d
+
+15. Which of the following is not used as loop in Python?
+a. for loop
+b. while loop
+c. do-while loop
+d. None of the above
+Answer:c
+
+16. What are the two main types of functions?
+a) Custom function
+b) Built-in function & User defined function
+c) User function
+d) System function
+Answer:b
+
+17. Where is function defined?
+a) Module
+b) Class
+c) Another function
+d) All of the mentioned
+Answer:d
+
+18. Which of the following is the use of id() function in python?
+a) Id returns the identity of the object
+b) Every object doesn’t have a unique id
+c) All of the mentioned
+d) None of the mentioned
+Answer:a
+
+19. Python supports the creation of anonymous functions at runtime, using a construct called __________
+a) lambda
+b) pi
+c) anonymous
+d) none of the mentioned
+Answer:a
+
+20. Does Lambda contains return statements?
+a) True
+b) False
+Answer:b
